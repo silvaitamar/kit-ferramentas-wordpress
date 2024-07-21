@@ -1,2 +1,2 @@
 # Kit de ferramentas WordPress
-Meu kit de ferramentas como Desenvolvedor WordPress, padrão utilizado em novos projetos ou comumente sugerido ao assumir já em produção.
+Este é o meu kit de ferramentas como Desenvolvedor Full Stack especializado em WordPress, contendo as principais ferramentas que utilizo em novos projetos e que frequentemente recomendo ao assumir projetos já em produção.
